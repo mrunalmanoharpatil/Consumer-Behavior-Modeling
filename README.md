@@ -1,1 +1,1 @@
-# Consumer-Behavior-Modeling
+# Consumer Behavior Modeling
